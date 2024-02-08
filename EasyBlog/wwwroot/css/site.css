@@ -1,0 +1,13 @@
+﻿html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-image {
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+}
